@@ -1,7 +1,9 @@
 const router = require('express').Router();
+const { connection } = require('mongoose');
 let Exercise = require('../models/exercise.model');
 
 router.route('/').get((req, res) => {
+
   // THis is a mongoose method and it is a promise and 
   //response with json format
   Exercise.find()
