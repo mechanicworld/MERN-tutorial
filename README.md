@@ -1,3 +1,20 @@
+# MERN-Tutorial
+
+
+## Problem:
+
+#### Lack of knowledge about MERN stack
+
+### Solution:
+
+#### Completing a tutorial and getting hands-on practice. Getting used to the MERN stack with a fun project
+
+
+### Thanks to Beau Carnes
+
+### [Beau Carnes => Tutorial's Repository](https://github.com/beaucarnes/mern-exercise-tracker-mongodb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
