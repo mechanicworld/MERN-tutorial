@@ -10,9 +10,12 @@
 #### Completing a tutorial and getting hands-on practice. Getting used to the MERN stack with a fun project
 
 
+
 ### Thanks to Beau Carnes
 
 ### [Beau Carnes => Tutorial's Repository](https://github.com/beaucarnes/mern-exercise-tracker-mongodb)
+
+### Run `npm install` for client side modules and backend modules
 
 
 # Getting Started with Create React App
